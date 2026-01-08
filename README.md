@@ -17,6 +17,7 @@ Each question randomly picks two integers between 1 and 20, asks the user to com
 2. open a terminal in the file's directory - this was done via VSCode
 3. Run:
    <img width="84" height="20" alt="image" src="https://github.com/user-attachments/assets/8cf9a823-b642-4fa7-8cde-7228950c9617" />
+   
 4. whilst this runs, you may need to select kernel (normal python base)
 5. as you work your way down, you will need to run each code one by one and by default the program will ask 4 questions in total as shown below:
 
@@ -37,13 +38,15 @@ That is correct! Well done!
 What is 10 * 3: **abc**
 Input Value not a number, try again
 
-What is 10 * 3: **30**
-That is correct! Well done!
+What is 10 * 3: **300**
+Uh oh! Try again
 
 This can also be shown here in my code:
+
 <img width="284" height="169" alt="image" src="https://github.com/user-attachments/assets/2853c3c8-5e27-4190-8a22-00befc86c1d5" />
 
-- this loop is what makes it easier for the code to run when it gets different answers inputted and this is what happens when an integer is not given as an answer.
+
+This loop is what makes it easier for the code to run when it gets different answers inputted and this is what happens when an integer is not given as an answer.
 
 #### For next time:
 I will try to add scores, different difficulty levels and even try different operations rather than multiplication (adding, subtracting, etc)
