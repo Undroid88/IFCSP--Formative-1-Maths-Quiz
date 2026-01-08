@@ -51,3 +51,8 @@ This loop is what makes it easier for the code to run when it gets different ans
 #### For next time:
 I will try to add scores, different difficulty levels and even try different operations rather than multiplication (adding, subtracting, etc)
 
+
+### Final comment
+
+I hope you enjoyed my mini maths quiz!!
+
